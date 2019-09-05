@@ -1,5 +1,5 @@
 # Stock-Prediction practice
-This is a homework assignment from Make Money with Machine Learning course. This project is written in python, numpy, scikit-learn and matplotlib.
+This is a homework assignment from Make Money with Machine Learning course. This project is written in python, numpy, scikit-learn and matplotlib. Use the stock history data from Yahoo Finance and apply regression analysis method.
 
 ![SVR](graph/svr.png)
 
